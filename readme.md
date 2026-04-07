@@ -46,7 +46,7 @@ Raw Data → SQL → Python Cleaning → SQL (Clean Data) → Power BI → Excel
 
 Interactive dashboard showing stock performance, gainers & losers, market cap distribution, and issue size vs return analysis.
 
-![Power BI Dashboard](icons/powerbi_dashboard.png)
+![Power BI Dashboard](Icons/powerbi_dashboard.png)
 
 ---
 
@@ -54,7 +54,7 @@ Interactive dashboard showing stock performance, gainers & losers, market cap di
 
 Analytical dashboard focused on market sentiment, cap category performance, volume distribution, and volatility insights.
 
-![Excel Dashboard](icons/excel_dashboard.png)
+![Excel Dashboard](Icons/excel_dashboard.png)
 
 
 ---
