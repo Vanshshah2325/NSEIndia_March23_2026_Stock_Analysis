@@ -9,7 +9,7 @@ This project is an **end-to-end stock market data analysis pipeline** built usin
 * Power BI
 * Microsoft Excel
 
-The goal of this project is to analyze **NSE stock data (3rd March 2026)** and extract meaningful insights related to **market performance, stock behavior, and trading activity**.
+The goal of this project is to analyze **NSE stock data (23rd March 2026)** and extract meaningful insights related to **market performance, stock behavior, and trading activity**.
 
 ---
 
